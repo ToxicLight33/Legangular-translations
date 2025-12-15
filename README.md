@@ -14,8 +14,8 @@ This repo collects translation proposals from the community. Translations are su
 2. Select your language
 3. Edit translations for:
    - UI elements (buttons, labels, messages)
-   - Character names (315+ LEGO Dimensions characters)
-   - Vehicle names (LEGO Dimensions vehicles)
+   - Character names 
+   - Vehicle names 
 4. Click **Submit Translation Proposal**
 5. GitHub will open with your translations pre-filled
 6. Click **Submit new issue** to complete
