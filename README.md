@@ -1,8 +1,6 @@
-
-```markdown
 # 🌍 Legangular - Community Translations
 
-This repository is dedicated to **community translation contributions** for [Legangular](https://github.com/ToxicLight33/Legangular), a LEGO Dimensions NFC Tag Generator.
+This repository is dedicated to **community translation contributions** for Legangular
 
 ## 🎯 Purpose
 
@@ -12,7 +10,7 @@ This repo collects translation proposals from the community. Translations are su
 
 ### Using the Translation Tool (Recommended)
 
-1. Visit the [Legangular Translation Tool](https://legangular.netlify.app/collaborative-translation)
+1. Visit the Legangular Translation Tool
 2. Select your language
 3. Edit translations for:
    - UI elements (buttons, labels, messages)
@@ -57,15 +55,8 @@ Issues are automatically tagged with:
 
 ## 🙏 Thank You!
 
-Every translation helps make Legangular accessible to more LEGO Dimensions fans worldwide!
-
-## 🔗 Links
-
-- **Main Project**: https://github.com/ToxicLight33/Legangular
-- **Live App**: https://legangular.netlify.app
-- **Translation Tool**: https://legangular.netlify.app/collaborative-translation
+Every translation helps make Legangular accessible to more fans worldwide!
 
 ## 📜 License
 
 This repository is for community contributions. All translations are contributed under the same license as the main Legangular project.
-```
