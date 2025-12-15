@@ -1,0 +1,201 @@
+{
+  "COMMON": {
+    "CANCEL": "キャンセル",
+    "CLOSE": "閉じる",
+    "COPY": "コピー",
+    "RESET": "リセット",
+    "SUBMIT": "送信",
+    "SAVE": "保存",
+    "SEARCH": "検索",
+    "LOADING": "読み込み中...",
+    "CLEAR": "クリア",
+    "BACK": "戻る",
+    "NEXT": "次へ",
+    "DONE": "完了",
+    "ERROR": "エラー",
+    "SUCCESS": "成功"
+  },
+  "HEADER": {
+    "TITLE": "Chteupnin's LD Calculator",
+    "SUBTITLE": "最新の精度でNFCタグを設定",
+    "COIN_PRINTER_TITLE": "ラベルプリンター",
+    "COIN_PRINTER_SUBTITLE": "ラベルを選択して印刷"
+  },
+  "NAVIGATION": {
+    "HOME": "ジェネレーター",
+    "BACK_TO_GENERATOR": "NFCジェネレーターに戻る",
+    "BACK_TO_HOME": "ジェネレーターに戻る",
+    "PRINT_LABELS": "ラベルを印刷",
+    "RECOMMENDED_PRODUCTS": "おすすめ商品",
+    "VIEW_PRODUCTS": "商品を見る"
+  },
+  "FORM": {
+    "NFC_UID_LABEL": "NFC UID",
+    "CHIP_TYPE": "チップタイプ：",
+    "NFC_PLACEHOLDER": "16進数14文字を入力",
+    "NFC_HINT": "16進数14文字（0-9、A-F）",
+    "NFC_REQUIRED": "NFC UIDは必須です",
+    "NFC_INVALID": "正確に16進数14文字である必要があります",
+    "GENERATE_BTN": "NFCコードを生成",
+    "GENERATING": "生成中...",
+    "RESET_BTN": "リセット",
+    "GENERATE_NEW": "新しいコードを生成"
+  },
+  "ITEM_TYPE": {
+    "SPECIFIC": "特定のアイテム",
+    "SPECIFIC_DESC": "特定のアイテムを生成",
+    "ALL": "すべてのアイテム",
+    "ALL_DESC": "すべてのアイテムのリストを生成"
+  },
+  "SEARCH": {
+    "LABEL": "アイテムを検索して選択",
+    "PLACEHOLDER": "キャラクター、乗り物、フランチャイズを検索...",
+    "RESULTS_FOUND": "件の結果が見つかりました",
+    "RESULTS_FOR": "の検索結果",
+    "NO_RESULTS": "アイテムが見つかりません",
+    "NO_RESULTS_TEXT": "一致するアイテムがありません",
+    "NO_RESULTS_TRY": "別の検索語を試してください。",
+    "NO_RESULTS_FILTER": "現在のフィルターに一致するアイテムがありません。",
+    "SHOW_ALL": "すべてのアイテムを表示",
+    "BROWSE_ALL": "{{count}}件のアイテムを閲覧",
+    "CLOSE": "閉じる"
+  },
+  "FILTERS": {
+    "ALL_ITEMS": "すべてのアイテム",
+    "CHARACTERS_ONLY": "キャラクターのみ",
+    "VEHICLES_ONLY": "乗り物のみ"
+  },
+  "ITEM": {
+    "CHARACTER": "キャラクター",
+    "VEHICLE": "乗り物",
+    "BUILD": "ビルド{{number}}",
+    "SELECTED": "選択されたアイテム：",
+    "CHANGE_SELECTION": "選択を変更",
+    "SELECT_REQUIRED": "アイテムを選択してください"
+  },
+  "IMAGE_STYLE": {
+    "LABEL": "画像スタイル：",
+    "BASE": "ベース",
+    "NAMED_BASE": "名前付きベース",
+    "COLORED_BASE": "カラーベース",
+    "NAMED_COLORED": "名前付きカラー",
+    "DEFAULT_RING": "デフォルトリング",
+    "YEAR_RING": "年リング",
+    "TYPE_RING": "タイプリング"
+  },
+  "RESULTS": {
+    "TITLE": "NFCコードの生成に成功しました！",
+    "SUBTITLE": "これらのコードをアプリケーションにコピーしてください",
+    "CODE_LABEL": "コード{{number}}",
+    "COPY_ALL": "すべてのコードをコピー",
+    "INSTRUCTIONS_TITLE": "これらのコードの使用方法：",
+    "INSTRUCTION_1": "デバイスで<strong>NFC Tools</strong>を開く",
+    "INSTRUCTION_2": "<strong>「その他」</strong>を選択",
+    "INSTRUCTION_3": "<strong>「高度なNFCコマンド」</strong>を選択し、<strong>「理解しました」</strong>をクリック",
+    "INSTRUCTION_4": "各コードをデータボックスに貼り付ける<strong>（一度に1つ）</strong>",
+    "INSTRUCTION_5": "<strong>「コマンドを送信」</strong>を押す",
+    "INSTRUCTION_6": "<strong>各コードについて手順4-5を繰り返す</strong>"
+  },
+  "PRODUCTS": {
+    "TITLE": "おすすめ商品",
+    "SUBTITLE": "あなたの創作を成功させるための必須アクセサリー",
+    "BUY_NOW": "今すぐ購入",
+    "WHY_TITLE": "なぜこれらの商品？",
+    "WHY_TEXT": "これらの商品はあなたのフィギュア作成に不可欠です：キャラクターをエンコードするためのNTAG213 NFCステッカー、保護するためのコインケース、完璧なカットのためのサークルカッター。",
+    "DELIVERY_TITLE": "配送とサポート",
+    "DELIVERY_TEXT": "AliExpressリンクは国際配送を提供しています。注文前に、お住まいの地域の配送時間と送料を確認してください。",
+    "RECOMMENDATION_TITLE": "NFCステッカーとツールが必要ですか？",
+    "RECOMMENDATION_TEXT": "あなたの創作に必要なすべてを手に入れるために、おすすめ商品をチェックしてください。",
+    "VIEW_RECOMMENDED": "おすすめ商品を見る"
+  },
+  "PRODUCTS_LIST": {
+    "NTAG213_NAME": "NTAG213 NFCステッカー（25mm）",
+    "NTAG213_DESC": "すべてのキャラクターと乗り物に対応した高品質NFCステッカー10枚パック。あなたの創作に不可欠。",
+    "COIN_CASES_NAME": "30mmコインケース",
+    "COIN_CASES_DESC": "プラスチック製コインケース100個パック（直径30mm）。NFCフィギュアの保護と展示に最適。",
+    "CIRCLE_CUTTER_NAME": "サークルカッター（調整可能）",
+    "CIRCLE_CUTTER_DESC": "精密な調整可能サークルカッター、プリントアウトを完璧にカットするのに理想的。きれいでプロフェッショナルなカットを実現。"
+  },
+  "PRINT": {
+    "TITLE": "コインプリンター",
+    "SUBTITLE": "コインを選択して印刷",
+    "COIN_SELECTION": "コイン選択",
+    "SELECT_COINS": "印刷したいコインを選択",
+    "SELECTED_COUNT": "{{count}}枚のコインが選択されています",
+    "PRINT_BUTTON": "選択したコインを印刷",
+    "DESELECT_ALL": "すべて選択解除",
+    "PAGE_SIZE": "ページサイズ：",
+    "PAGE_A4": "A4",
+    "PAGE_LETTER": "レター",
+    "COINS_PER_PAGE": "1ページあたりのコイン数：",
+    "PREVIEW": "プレビュー",
+    "PRINT": "印刷"
+  },
+  "DONATION": {
+    "TITLE": "プロジェクトをサポート",
+    "SUBTITLE": "このNFCジェネレーターを無料で改善し続けるのを手伝ってください",
+    "FEATURE_1": "無料のNFCコード生成",
+    "FEATURE_2": "すべてのキャラクターと乗り物",
+    "FEATURE_3": "定期的な更新と改善",
+    "FEATURE_4": "広告なし、トラッキングなし",
+    "MESSAGE": "あなたのサポートは、ホスティングコストと開発時間をカバーするのに役立ちます。どんなに小さな貢献でも違いを生みます！",
+    "DONATE_BTN": "PayPalで寄付",
+    "MAYBE_LATER": "また後で",
+    "SECURE_INFO": "PayPalによる安全な寄付"
+  },
+  "FLOATING_ACTIONS": {
+    "GENERATOR": "ジェネレーター",
+    "PRINT_LABELS": "ラベルを印刷",
+    "PRODUCTS": "商品",
+    "TUTORIAL": "チュートリアル",
+    "DISCORD": "Discord",
+    "DONATE": "寄付",
+    "QUICK_ACTIONS": "クイックアクション",
+    "JOIN_DISCORD": "Discordコミュニティに参加",
+    "SUPPORT_PROJECT": "寄付でこのプロジェクトをサポート",
+    "VIEW_TUTORIAL": "チュートリアルを見る"
+  },  "PRINT_LABELS": {
+    "TITLE": "ラベルプリンター",
+    "SUBTITLE": "ラベルを選択して印刷",
+    "BACK_TO_GENERATOR": "ジェネレーターに戻る",
+    "RECOMMENDED_PRODUCTS": "推奨製品",
+    "IMAGE_STYLE": "画像スタイル:",
+    "IMAGE_STYLES": {
+      "BASE": "アイコンのみ",
+      "NAMED_BASE": "アイコンと名前",
+      "COLORED_BASE": "アイコンとパックカラー",
+      "NAMED_COLORED": "アイコンとパックカラーと名前",
+      "DEFAULT_RING": "アイコンとデフォルトサークル",
+      "YEAR_RING": "アイコンと年カラー",
+      "TYPE_RING": "アイコンとパックカラー #2",
+      "WITH_NAME": "アイコンと名前 #2"
+    },
+    "CHARACTERS_ONLY": "キャラクターのみ（車両は非表示）",
+    "IMAGES_FROM": "画像提供",
+    "SEARCH_PLACEHOLDER": "キャラクターまたは車両を検索...",
+    "SELECT_ALL": "すべて選択",    "SELECT_CHARACTERS": "すべてのキャラクター",
+    "SELECT_VEHICLES": "すべての乗り物",
+    "SELECT_MAIN_BUILD": "メインビルド",
+    "SELECT_REBUILD_1": "リビルド 1",
+    "SELECT_REBUILD_2": "リビルド 2",    "COINS_COUNT": "ラベル",
+    "PRINT": "印刷",
+    "LOADING": "画像を読み込み中...",
+    "DONATION_MODAL": {
+      "TITLE": "無料ツールをサポート 💙",
+      "MESSAGE_1": "このツールは完全に無料で、コミュニティを支援するために提供されています。",
+      "MESSAGE_2": "⚠️ ご注意：一部のユーザーが当ツールを使用してラベルを印刷し、転売していることは承知しています。これは本来の目的ではありませんのでご注意ください。",
+      "MESSAGE_3": "少額の寄付で私たちの活動を支援していただければ大変ありがたいです（必須ではありません）。",
+      "DONATE_BTN": "寄付でサポート",
+      "PRINT_BTN": "印刷を続ける",
+      "THANK_YOU": "ご支援ありがとうございます！🙏"
+    }
+  },
+  "FOOTER": {
+    "LEGAL_MENTIONS": "法的事項 / 免責事項",
+    "UNOFFICIAL_PROJECT": "非公式コミュニティプロジェクト",
+    "INDEPENDENT_PROJECT": "このサイトは独立した無料のコミュニティ主導のプロジェクトです。LEGO®、LEGO Dimensions™、Warner Bros.、TT Games、またはその他の関連会社と提携、承認、またはサポートされていません。",
+    "TRADEMARKS": "記載されているブランド名、キャラクター、ユニバースはそれぞれの所有者の財産であり、識別と技術的互換性の目的でのみ使用されています。",
+    "NO_OFFICIAL_DATA": "公式データ、保護されたコンテンツ、またはオリジナルのLEGO Dimensions™ NFCタグは、このサイトで配布または複製されていません。",
+    "DONATIONS_INFO": "受け取った寄付は、ホスティングとプロジェクト開発のサポートにのみ使用され、補償や特権的なアクセスは提供されません。"
+  }
+}

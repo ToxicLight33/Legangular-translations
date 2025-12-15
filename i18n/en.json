@@ -1,0 +1,205 @@
+{
+  "COMMON": {
+    "CANCEL": "Cancel",
+    "CLOSE": "Close",
+    "COPY": "Copy",
+    "RESET": "Reset",
+    "SUBMIT": "Submit",
+    "SAVE": "Save",
+    "SEARCH": "Search",
+    "LOADING": "Loading...",
+    "CLEAR": "Clear",
+    "BACK": "Back",
+    "NEXT": "Next",
+    "DONE": "Done",
+    "ERROR": "Error",
+    "SUCCESS": "Success"
+  },
+  "HEADER": {
+    "TITLE": "Chteupnin's LD Calculator",
+    "SUBTITLE": "Configure your NFC tags with modern precision",
+    "COIN_PRINTER_TITLE": "Label Printer",
+    "COIN_PRINTER_SUBTITLE": "Select and print your labels"
+  },
+  "NAVIGATION": {
+    "HOME": "Generator",
+    "BACK_TO_GENERATOR": "Back to NFC Generator",
+    "BACK_TO_HOME": "Back to Generator",
+    "PRINT_LABELS": "Print Labels",
+    "RECOMMENDED_PRODUCTS": "Recommended Products",
+    "VIEW_PRODUCTS": "View Products"
+  },
+  "FORM": {
+    "NFC_UID_LABEL": "NFC UID",
+    "CHIP_TYPE": "Chip Type:",
+    "NFC_PLACEHOLDER": "Enter 14 hexadecimal characters",
+    "NFC_HINT": "14 hexadecimal characters (0-9, A-F)",
+    "NFC_REQUIRED": "NFC UID is required",
+    "NFC_INVALID": "Must be exactly 14 hexadecimal characters",
+    "GENERATE_BTN": "Generate NFC Codes",
+    "GENERATING": "Generating...",
+    "RESET_BTN": "Reset",
+    "GENERATE_NEW": "Generate New Codes"
+  },
+  "ITEM_TYPE": {
+    "SPECIFIC": "Specific Item",
+    "SPECIFIC_DESC": "Generate for one specific item",
+    "ALL": "All Items",
+    "ALL_DESC": "Generate list for all items"
+  },
+  "SEARCH": {
+    "LABEL": "Search & Select Item",
+    "PLACEHOLDER": "Type to search characters, vehicles, franchises...",
+    "RESULTS_FOUND": "result found | results found",
+    "RESULTS_FOR": "for",
+    "NO_RESULTS": "No items found",
+    "NO_RESULTS_TEXT": "No items match",
+    "NO_RESULTS_TRY": "Try different search terms.",
+    "NO_RESULTS_FILTER": "No items match the current filter.",
+    "SHOW_ALL": "Show All Items",
+    "BROWSE_ALL": "Browse All {{count}} Items",
+    "CLOSE": "Close"
+  },
+  "FILTERS": {
+    "ALL_ITEMS": "All Items",
+    "CHARACTERS_ONLY": "Characters Only",
+    "VEHICLES_ONLY": "Vehicles Only"
+  },
+  "ITEM": {
+    "CHARACTER": "Character",
+    "VEHICLE": "Vehicle",
+    "BUILD": "Build {{number}}",
+    "SELECTED": "Selected item:",
+    "CHANGE_SELECTION": "Change selection",
+    "SELECT_REQUIRED": "Please select an item"
+  },
+  "IMAGE_STYLE": {
+    "LABEL": "Image Style:",
+    "BASE": "Base",
+    "NAMED_BASE": "Named Base",
+    "COLORED_BASE": "Colored Base",
+    "NAMED_COLORED": "Named Colored",
+    "DEFAULT_RING": "Default Ring",
+    "YEAR_RING": "Year Ring",
+    "TYPE_RING": "Type Ring"
+  },
+  "RESULTS": {
+    "TITLE": "NFC Codes Generated Successfully!",
+    "SUBTITLE": "Copy these codes to your application",
+    "CODE_LABEL": "Code {{number}}",
+    "COPY_ALL": "Copy All Codes",
+    "INSTRUCTIONS_TITLE": "How to use these codes:",
+    "INSTRUCTION_1": "Open <strong>NFC Tools</strong> on your device",
+    "INSTRUCTION_2": "Select <strong>\"Other\"</strong>",
+    "INSTRUCTION_3": "Choose <strong>\"Advanced NFC commands\"</strong>, click <strong>\"I understand\"</strong>",
+    "INSTRUCTION_4": "Paste each code into the data box <strong>(one at a time)</strong>",
+    "INSTRUCTION_5": "Hit <strong>\"Send command\"</strong>",
+    "INSTRUCTION_6": "<strong>Repeat steps 4-5 for each code</strong>"
+  },
+  "PRODUCTS": {
+    "TITLE": "Recommended Products",
+    "SUBTITLE": "Essential accessories to succeed in your creations",
+    "BUY_NOW": "Buy Now",
+    "WHY_TITLE": "Why these products?",
+    "WHY_TEXT": "These products are essential for creating your figurines: NTAG213 NFC stickers to encode your characters, coin cases to protect them, and the circle cutter for perfect cuts.",
+    "DELIVERY_TITLE": "Delivery and Support",
+    "DELIVERY_TEXT": "AliExpress links offer international delivery. Make sure to check delivery times and shipping costs for your region before ordering.",
+    "RECOMMENDATION_TITLE": "Need NFC stickers and tools?",
+    "RECOMMENDATION_TEXT": "Check out our recommended products to get everything you need for your creations.",
+    "VIEW_RECOMMENDED": "View Recommended Products"
+  },
+  "PRODUCTS_LIST": {
+    "NTAG213_NAME": "NTAG213 NFC Stickers (25mm)",
+    "NTAG213_DESC": "Pack of 10 high-quality NFC stickers, compatible with all characters and vehicles. Essential for your creations.",
+    "COIN_CASES_NAME": "30mm Coin Cases",
+    "COIN_CASES_DESC": "Pack of 100 plastic coin cases (30mm diameter). Perfect for protecting and presenting your NFC figurines.",
+    "CIRCLE_CUTTER_NAME": "Circle Cutter (adjustable)",
+    "CIRCLE_CUTTER_DESC": "Precision adjustable circle cutter, ideal for cutting your printouts perfectly. Makes clean, professional cuts."
+  },
+  "PRINT": {
+    "TITLE": "Coin Printer",
+    "SUBTITLE": "Select and print your coins",
+    "COIN_SELECTION": "Coin Selection",
+    "SELECT_COINS": "Select the coins you want to print",
+    "SELECTED_COUNT": "{{count}} coin selected | {{count}} coins selected",
+    "PRINT_BUTTON": "Print Selected Coins",
+    "DESELECT_ALL": "Deselect All",
+    "PAGE_SIZE": "Page Size:",
+    "PAGE_A4": "A4",
+    "PAGE_LETTER": "Letter",
+    "COINS_PER_PAGE": "Coins per Page:",
+    "PREVIEW": "Preview",
+    "PRINT": "Print"
+  },
+  "DONATION": {
+    "TITLE": "Support the Project",
+    "SUBTITLE": "Help keep this NFC Generator free and improved",
+    "FEATURE_1": "Free NFC code generation",
+    "FEATURE_2": "All characters & vehicles",
+    "FEATURE_3": "Regular updates and improvements",
+    "FEATURE_4": "No ads, no tracking",
+    "MESSAGE": "Your support helps cover hosting costs and development time. Every contribution, no matter how small, makes a difference!",
+    "DONATE_BTN": "Donate via PayPal",
+    "MAYBE_LATER": "Maybe Later",
+    "SECURE_INFO": "Secure donation through PayPal"
+  },
+  "FLOATING_ACTIONS": {
+    "GENERATOR": "Generator",
+    "PRINT_LABELS": "Print Labels",
+    "PRODUCTS": "Products",
+    "TUTORIAL": "Tutorial",
+    "TRANSLATION": "Translate",
+    "DISCORD": "Discord",
+    "DONATE": "Donate",
+    "QUICK_ACTIONS": "Quick actions",
+    "JOIN_DISCORD": "Join our Discord community",
+    "SUPPORT_PROJECT": "Support this project with a donation",
+    "VIEW_TUTORIAL": "View Tutorial"
+  },
+  "PRINT_LABELS": {
+    "TITLE": "Label Printer",
+    "SUBTITLE": "Select and print your labels",
+    "BACK_TO_GENERATOR": "Back to Generator",
+    "RECOMMENDED_PRODUCTS": "Recommended Products",
+    "IMAGE_STYLE": "Image Style:",
+    "IMAGE_STYLES": {
+      "BASE": "Icon Only",
+      "NAMED_BASE": "Icon with Name",
+      "COLORED_BASE": "Icon with Pack Color",
+      "NAMED_COLORED": "Icon with Pack Color and Name",
+      "DEFAULT_RING": "Icon with Default Circle",
+      "YEAR_RING": "Icon with Year Color",
+      "TYPE_RING": "Icon with Pack Color #2",
+      "WITH_NAME": "Icon with Name #2"
+    },
+    "CHARACTERS_ONLY": "Characters only (vehicles are hidden)",
+    "IMAGES_FROM": "Images from",
+    "SEARCH_PLACEHOLDER": "Search for a character or vehicle...",
+    "SELECT_ALL": "Select All",
+    "SELECT_CHARACTERS": "All Characters",
+    "SELECT_VEHICLES": "All Vehicles",
+    "SELECT_MAIN_BUILD": "Main Build",
+    "SELECT_REBUILD_1": "Rebuild 1",
+    "SELECT_REBUILD_2": "Rebuild 2",
+    "COINS_COUNT": "labels",
+    "PRINT": "Print",
+    "LOADING": "Loading images...",
+    "DONATION_MODAL": {
+      "TITLE": "Support Our Free Tool 💙",
+      "MESSAGE_1": "This tool is completely free and available to help the community.",
+      "MESSAGE_2": "⚠️ Note: We know some users print labels to resell them using our tool. Please note that this isn't its intended purpose.",
+      "MESSAGE_3": "If you'd like to support our work with a small contribution, it would be greatly appreciated (but not required).",
+      "DONATE_BTN": "Support with a Donation",
+      "PRINT_BTN": "Continue to Print",
+      "THANK_YOU": "Thank you for your support! 🙏"
+    }
+  },
+  "FOOTER": {
+    "LEGAL_MENTIONS": "Legal Mentions / Disclaimer",
+    "UNOFFICIAL_PROJECT": "Unofficial Community Project",
+    "INDEPENDENT_PROJECT": "This site is an independent, free, and community-driven project. It is not affiliated with, approved by, or supported by LEGO®, LEGO Dimensions™, Warner Bros., TT Games, or any other associated company.",
+    "TRADEMARKS": "Brand names, characters, and universes mentioned are the property of their respective owners and are used solely for identification and technical compatibility purposes.",
+    "NO_OFFICIAL_DATA": "No official data, protected content, or original LEGO Dimensions™ NFC tags are distributed or reproduced on this site.",
+    "DONATIONS_INFO": "Any donations received are solely used to support hosting and project development, with no compensation or privileged access provided."
+  }
+}

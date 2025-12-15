@@ -1,0 +1,201 @@
+{
+  "COMMON": {
+    "CANCEL": "Cancelar",
+    "CLOSE": "Cerrar",
+    "COPY": "Copiar",
+    "RESET": "Restablecer",
+    "SUBMIT": "Enviar",
+    "SAVE": "Guardar",
+    "SEARCH": "Buscar",
+    "LOADING": "Cargando...",
+    "CLEAR": "Limpiar",
+    "BACK": "Atrás",
+    "NEXT": "Siguiente",
+    "DONE": "Hecho",
+    "ERROR": "Error",
+    "SUCCESS": "Éxito"
+  },
+  "HEADER": {
+    "TITLE": "Chteupnin's LD Calculator",
+    "SUBTITLE": "Configure sus etiquetas NFC con precisión moderna",
+    "COIN_PRINTER_TITLE": "Impresora de Etiquetas",
+    "COIN_PRINTER_SUBTITLE": "Seleccione e imprima sus etiquetas"
+  },
+  "NAVIGATION": {
+    "HOME": "Generador",
+    "BACK_TO_GENERATOR": "Volver al Generador NFC",
+    "BACK_TO_HOME": "Volver al Generador",
+    "PRINT_LABELS": "Imprimir Etiquetas",
+    "RECOMMENDED_PRODUCTS": "Productos Recomendados",
+    "VIEW_PRODUCTS": "Ver Productos"
+  },
+  "FORM": {
+    "NFC_UID_LABEL": "UID NFC",
+    "CHIP_TYPE": "Tipo de chip:",
+    "NFC_PLACEHOLDER": "Ingrese 14 caracteres hexadecimales",
+    "NFC_HINT": "14 caracteres hexadecimales (0-9, A-F)",
+    "NFC_REQUIRED": "Se requiere el UID NFC",
+    "NFC_INVALID": "Debe tener exactamente 14 caracteres hexadecimales",
+    "GENERATE_BTN": "Generar Códigos NFC",
+    "GENERATING": "Generando...",
+    "RESET_BTN": "Restablecer",
+    "GENERATE_NEW": "Generar Nuevos Códigos"
+  },
+  "ITEM_TYPE": {
+    "SPECIFIC": "Elemento Específico",
+    "SPECIFIC_DESC": "Generar para un elemento específico",
+    "ALL": "Todos los Elementos",
+    "ALL_DESC": "Generar lista para todos los elementos"
+  },
+  "SEARCH": {
+    "LABEL": "Buscar y Seleccionar Elemento",
+    "PLACEHOLDER": "Buscar personajes, vehículos, franquicias...",
+    "RESULTS_FOUND": "resultado encontrado | resultados encontrados",
+    "RESULTS_FOR": "para",
+    "NO_RESULTS": "No se encontraron elementos",
+    "NO_RESULTS_TEXT": "Ningún elemento coincide con",
+    "NO_RESULTS_TRY": "Intente con diferentes términos de búsqueda.",
+    "NO_RESULTS_FILTER": "Ningún elemento coincide con el filtro actual.",
+    "SHOW_ALL": "Mostrar Todos los Elementos",
+    "BROWSE_ALL": "Explorar los {{count}} Elementos",
+    "CLOSE": "Cerrar"
+  },
+  "FILTERS": {
+    "ALL_ITEMS": "Todos los Elementos",
+    "CHARACTERS_ONLY": "Solo Personajes",
+    "VEHICLES_ONLY": "Solo Vehículos"
+  },
+  "ITEM": {
+    "CHARACTER": "Personaje",
+    "VEHICLE": "Vehículo",
+    "BUILD": "Build {{number}}",
+    "SELECTED": "Elemento seleccionado:",
+    "CHANGE_SELECTION": "Cambiar selección",
+    "SELECT_REQUIRED": "Por favor seleccione un elemento"
+  },
+  "IMAGE_STYLE": {
+    "LABEL": "Estilo de imagen:",
+    "BASE": "Base",
+    "NAMED_BASE": "Base con Nombre",
+    "COLORED_BASE": "Base Coloreada",
+    "NAMED_COLORED": "Con Nombre Coloreado",
+    "DEFAULT_RING": "Anillo Predeterminado",
+    "YEAR_RING": "Anillo de Año",
+    "TYPE_RING": "Anillo de Tipo"
+  },
+  "RESULTS": {
+    "TITLE": "¡Códigos NFC Generados Exitosamente!",
+    "SUBTITLE": "Copie estos códigos en su aplicación",
+    "CODE_LABEL": "Código {{number}}",
+    "COPY_ALL": "Copiar Todos los Códigos",
+    "INSTRUCTIONS_TITLE": "Cómo usar estos códigos:",
+    "INSTRUCTION_1": "Abre <strong>NFC Tools</strong> en tu dispositivo",
+    "INSTRUCTION_2": "Selecciona <strong>\"Otro\"</strong>",
+    "INSTRUCTION_3": "Elige <strong>\"Comandos NFC avanzados\"</strong>, haz clic en <strong>\"Entiendo\"</strong>",
+    "INSTRUCTION_4": "Pega cada código en el cuadro de datos <strong>(uno a la vez)</strong>",
+    "INSTRUCTION_5": "Pulsa <strong>\"Enviar comando\"</strong>",
+    "INSTRUCTION_6": "<strong>Repite los pasos 4-5 para cada código</strong>"
+  },
+  "PRODUCTS": {
+    "TITLE": "Productos Recomendados",
+    "SUBTITLE": "Accesorios esenciales para tener éxito en sus creaciones",
+    "BUY_NOW": "Comprar Ahora",
+    "WHY_TITLE": "¿Por qué estos productos?",
+    "WHY_TEXT": "Estos productos son esenciales para crear sus figuritas: pegatinas NFC NTAG213 para codificar sus personajes, estuches de monedas para protegerlos y el cortador circular para cortes perfectos.",
+    "DELIVERY_TITLE": "Entrega y Soporte",
+    "DELIVERY_TEXT": "Los enlaces de AliExpress ofrecen entrega internacional. Asegúrese de verificar los tiempos de entrega y los costos de envío para su región antes de ordenar.",
+    "RECOMMENDATION_TITLE": "¿Necesita pegatinas NFC y herramientas?",
+    "RECOMMENDATION_TEXT": "Consulte nuestros productos recomendados para obtener todo lo que necesita para sus creaciones.",
+    "VIEW_RECOMMENDED": "Ver Productos Recomendados"
+  },
+  "PRODUCTS_LIST": {
+    "NTAG213_NAME": "Pegatinas NFC NTAG213 (25mm)",
+    "NTAG213_DESC": "Paquete de 10 pegatinas NFC de alta calidad, compatibles con todos los personajes y vehículos. Esenciales para sus creaciones.",
+    "COIN_CASES_NAME": "Estuches de Monedas 30mm",
+    "COIN_CASES_DESC": "Paquete de 100 estuches de monedas de plástico (diámetro 30mm). Perfecto para proteger y presentar sus figuritas NFC.",
+    "CIRCLE_CUTTER_NAME": "Cortador Circular (ajustable)",
+    "CIRCLE_CUTTER_DESC": "Cortador circular de precisión ajustable, ideal para cortar sus impresiones perfectamente. Realiza cortes limpios y profesionales."
+  },
+  "PRINT": {
+    "TITLE": "Impresora de Monedas",
+    "SUBTITLE": "Seleccione e imprima sus monedas",
+    "COIN_SELECTION": "Selección de Monedas",
+    "SELECT_COINS": "Seleccione las monedas que desea imprimir",
+    "SELECTED_COUNT": "{{count}} moneda seleccionada | {{count}} monedas seleccionadas",
+    "PRINT_BUTTON": "Imprimir Monedas Seleccionadas",
+    "DESELECT_ALL": "Deseleccionar Todas",
+    "PAGE_SIZE": "Tamaño de Página:",
+    "PAGE_A4": "A4",
+    "PAGE_LETTER": "Carta",
+    "COINS_PER_PAGE": "Monedas por Página:",
+    "PREVIEW": "Vista Previa",
+    "PRINT": "Imprimir"
+  },
+  "DONATION": {
+    "TITLE": "Apoyar el Proyecto",
+    "SUBTITLE": "Ayude a mantener este Generador NFC gratuito y mejorado",
+    "FEATURE_1": "Generación de códigos NFC gratuita",
+    "FEATURE_2": "Todos los personajes y vehículos",
+    "FEATURE_3": "Actualizaciones y mejoras regulares",
+    "FEATURE_4": "Sin anuncios, sin seguimiento",
+    "MESSAGE": "¡Su apoyo ayuda a cubrir los costos de alojamiento y el tiempo de desarrollo. Cada contribución, sin importar cuán pequeña, hace la diferencia!",
+    "DONATE_BTN": "Donar a través de PayPal",
+    "MAYBE_LATER": "Tal vez Más Tarde",
+    "SECURE_INFO": "Donación segura a través de PayPal"
+  },
+  "FLOATING_ACTIONS": {
+    "GENERATOR": "Generador",
+    "PRINT_LABELS": "Imprimir Etiquetas",
+    "PRODUCTS": "Productos",
+    "TUTORIAL": "Tutorial",
+    "DISCORD": "Discord",
+    "DONATE": "Donar",
+    "QUICK_ACTIONS": "Acciones rápidas",
+    "JOIN_DISCORD": "Únete a nuestra comunidad de Discord",
+    "SUPPORT_PROJECT": "Apoya este proyecto con una donación",
+    "VIEW_TUTORIAL": "Ver tutorial"
+  },  "PRINT_LABELS": {
+    "TITLE": "Impresora de etiquetas",
+    "SUBTITLE": "Seleccione e imprima sus etiquetas",
+    "BACK_TO_GENERATOR": "Volver al generador",
+    "RECOMMENDED_PRODUCTS": "Productos recomendados",
+    "IMAGE_STYLE": "Estilo de imagen:",
+    "IMAGE_STYLES": {
+      "BASE": "Solo Icono",
+      "NAMED_BASE": "Icono con Nombre",
+      "COLORED_BASE": "Icono con Color de Paquete",
+      "NAMED_COLORED": "Icono con Color de Paquete y Nombre",
+      "DEFAULT_RING": "Icono con Círculo Predeterminado",
+      "YEAR_RING": "Icono con Color de Año",
+      "TYPE_RING": "Icono con Color de Paquete #2",
+      "WITH_NAME": "Icono con Nombre #2"
+    },
+    "CHARACTERS_ONLY": "Solo personajes (vehículos ocultos)",
+    "IMAGES_FROM": "Imágenes de",
+    "SEARCH_PLACEHOLDER": "Buscar un personaje o vehículo...",
+    "SELECT_ALL": "Seleccionar todo",    "SELECT_CHARACTERS": "Todos los Personajes",
+    "SELECT_VEHICLES": "Todos los Vehículos",
+    "SELECT_MAIN_BUILD": "Build Principal",
+    "SELECT_REBUILD_1": "Rebuild 1",
+    "SELECT_REBUILD_2": "Rebuild 2",    "COINS_COUNT": "etiquetas",
+    "PRINT": "Imprimir",
+    "LOADING": "Cargando imágenes...",
+    "DONATION_MODAL": {
+      "TITLE": "Apoye nuestra herramienta gratuita 💙",
+      "MESSAGE_1": "Esta herramienta es completamente gratuita y está disponible para ayudar a la comunidad.",
+      "MESSAGE_2": "⚠️ Atención: Sabemos que algunos usuarios imprimen etiquetas para revenderlas usando nuestra herramienta. Tenga en cuenta que este no es su propósito previsto.",
+      "MESSAGE_3": "Si desea apoyar nuestro trabajo con una pequeña contribución, sería muy apreciado (pero no es obligatorio).",
+      "DONATE_BTN": "Apoyar con una donación",
+      "PRINT_BTN": "Continuar imprimiendo",
+      "THANK_YOU": "¡Gracias por su apoyo! 🙏"
+    }
+  },
+  "FOOTER": {
+    "LEGAL_MENTIONS": "Menciones Legales / Descargo de Responsabilidad",
+    "UNOFFICIAL_PROJECT": "Proyecto Comunitario No Oficial",
+    "INDEPENDENT_PROJECT": "Este sitio es un proyecto independiente, gratuito y comunitario. No está afiliado, aprobado ni respaldado por LEGO®, LEGO Dimensions™, Warner Bros., TT Games o cualquier otra compañía asociada.",
+    "TRADEMARKS": "Los nombres de marcas, personajes y universos mencionados son propiedad de sus respectivos propietarios y se utilizan únicamente con fines de identificación y compatibilidad técnica.",
+    "NO_OFFICIAL_DATA": "Ningún dato oficial, contenido protegido o etiqueta NFC original de LEGO Dimensions™ se distribuye o reproduce en este sitio.",
+    "DONATIONS_INFO": "Las donaciones recibidas se utilizan únicamente para apoyar el alojamiento y el desarrollo del proyecto, sin compensación ni acceso privilegiado."
+  }
+}
